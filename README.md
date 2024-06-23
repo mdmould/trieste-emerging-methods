@@ -6,7 +6,7 @@ A PDF copy of my slides is stored in this repo and you can also get them at this
 
 The Python notebooks for each section are in this repo. You can also click the links below to directly run them in Google Colab.
 
-## test
+### test
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mdmould/shallow/blob/main/examples/bounded-flow.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdmould/shallow/blob/main/examples/bounded-flow.ipynb)
 
